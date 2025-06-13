@@ -10,3 +10,7 @@ HRI, human–robot interaction, YOLO, ROS 2, MoveIt, collaborative robot, keypoi
 🦾 Collaborative robot [Hanwha HCR-3A](https://www.hycobot.com/hcr-3) <br />
 📷 Camera [Intel® RealSense™ D435](https://www.intelrealsense.com/depth-camera-d435/)<br />
 
+## Software
+🐧 Linux Ubuntu 22.04 LTS Jammy Jellyfish<br />
+🤖 ROS 2 Humble Hawksbill<br />
+👁️ [YOLOv8](https://github.com/mgonzs13/yolo_ros/tree/main)<br />
