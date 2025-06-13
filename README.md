@@ -23,3 +23,4 @@ HRI, human–robot interaction, YOLO, ROS 2, MoveIt, collaborative robot, keypoi
 ✔️ Writing a program to control the arm<br />
 
 ## RESULT
+<video src="2025_master_thesis/Screenshots/Screencast from 05-26-2025 01_34_08 PM" width="320" height="240" controls></video>
