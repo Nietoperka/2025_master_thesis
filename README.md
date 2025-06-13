@@ -14,3 +14,12 @@ HRI, human–robot interaction, YOLO, ROS 2, MoveIt, collaborative robot, keypoi
 🐧 Linux Ubuntu 22.04 LTS Jammy Jellyfish<br />
 🤖 ROS 2 Humble Hawksbill<br />
 👁️ [YOLOv8](https://github.com/mgonzs13/yolo_ros/tree/main)<br />
+📡 RViz 2
+
+## TASKS:
+✔️ Selecting a gesture recognition algorithm<br />
+✔️ Integrating the camera with the algorithm<br />
+✔️ Integrating the entire environment (robot model in RViz, YOLO and camera)<br />
+✔️ Writing a program to control the arm<br />
+
+## RESULT
