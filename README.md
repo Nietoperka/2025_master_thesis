@@ -24,3 +24,4 @@ HRI, human–robot interaction, YOLO, ROS 2, MoveIt, collaborative robot, keypoi
 
 ## RESULT
 <video src="Screenshots/Screencast from 05-26-2025 01_34_08 PM.webm" width="320" height="240" controls></video>
+https://github.com/Nietoperka/2025_master_thesis/blob/main/Screenshots/Screencast%20from%2005-26-2025%2001_34_08%20PM.webm
